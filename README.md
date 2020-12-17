@@ -9,13 +9,9 @@ Light Theme        |  Dark Theme
 ![Showcase](showcase/showcase.gif)  | ![Showcase dark theme](showcase/showcase_dark.gif)
 
 ## Project
-This project is mainly focused for Flutter users who would like to use the `Provider` package suggested by the Flutter team.
-So in short this project contains following use cases:
-* Use of a `extends ChangeNotifier` class
-* Provide the `ChangeNotifier` class with `ChangeNotifierProvider` from the `Provider` package 
+In short this project contains following use cases:
 * Simple widget tests
 * Dark and light theme, with the possibilty to switch at runtime
-* Adaptive widgets to display on both a phone and tablet (master and details view)
 * Use of assets
 * Use of external fonts
 * Logo generations by `flutter_launcher_icons` package
